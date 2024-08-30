@@ -1,4 +1,4 @@
-# LogisticsShippingRates-
+# LogisticsShippingRates
 This is a repo for a practice assignment in the Github section in the  IBM Full Stack course
 
 Please consider the below factors while contributing
